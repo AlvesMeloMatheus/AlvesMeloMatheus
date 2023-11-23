@@ -2,10 +2,17 @@
 
 ![image](https://github.com/AlvesMeloMatheus/AlvesMeloMatheus/assets/115713845/d960fea7-6435-4c5b-8a1e-e8b286bc257d)
 
-Soy un desarrollador web junior full-stack con 9 meses de experiencia en la creación de aplicaciones web.
-He construido la mayoría de mis proyectos utilizando tecnologías como JavaScript, NodeJS, React, Redux, PostgreSQL, Express. También tengo experiencia con herramientas como TypeScript, Auth0, JSON Web Token(JWT) y CSS. Siempre estoy buscando aprender nuevas tecnologías para mejorar mis conocimientos en ese vasto mundo que es la informática, y eso me permite no solamente mejorar mi trabajo como también ofrecer soluciones mas eficientes.
-Creo que la colaboración, la comunicación y la organización son esenciales para la creación de proyectos exitosos y, como solucionador de problemas, siempre estoy buscando formas de mejorar mis habilidades blandas, lo que me permite no dudar en preguntar cuando no tenga el conocimiento de un tema y buscar los comentarios correctos para la resolución del tema.
-En mi tiempo libre, me gusta leer, viajar, hacer deportes y ser presente con mi familia. Estoy muy emocionado de que a cada día que se pasa, sigo creciendo tanto personal como profesionalmente con los muchos proyectos que aún están por venir.
+Inicialmente embarqué en un camino que no resultó ser mi verdadera vocación, estudié Medicina. Sin embargo, en este recorrido descubrí mi verdadera pasión: el fascinante mundo de la tecnología. Ahora, me desempeño como desarrollador web full-stack junior con experiencia en la creación de aplicaciones web innovadoras.
+
+
+En mi trayectoria y aprendizaje he llevado a cabo la construcción de diversos proyectos utilizando tecnologías de vanguardia como JavaScript, NodeJS, React, Redux, PostgreSQL y Express. Mi versatilidad se extiende al uso de herramientas como TypeScript, Auth0, JSON Web Token (JWT) y CSS, lo que me permite abordar proyectos de manera integral.
+
+
+Creo firmemente en la importancia de la colaboración, la comunicación y la organización en la creación de proyectos exitosos. Como solucionador de problemas, siempre busco mejorar mis habilidades blandas, lo que me permite no dudar en pedir ayuda cuando surge un desafío y buscar retroalimentación constructiva para encontrar soluciones efectivas.
+
+
+Estoy entusiasmado con el continuo crecimiento, tanto personal como profesional, que experimento cada día. Cada nuevo proyecto es una oportunidad emocionante para expandir mis habilidades y contribuir al éxito del equipo. ¡Estoy ansioso por los emocionantes desafíos y proyectos que están por venir en mi camino!
+
 
 ![image](https://github.com/AlvesMeloMatheus/AlvesMeloMatheus/assets/115713845/eb5a886e-3e91-4fec-95bd-72a8f28c0076)
 
